@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+sentencepiece
+huggingface_hub
+
+git+https://github.com/innokria/sdnq.git@main
+
+openvino
